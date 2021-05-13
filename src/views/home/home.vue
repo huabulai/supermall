@@ -19,7 +19,7 @@ export default {
   },
   data () {
     return {
-      age: 24
+      age: 25 // 大一岁了
     }
   }
 }
