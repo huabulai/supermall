@@ -19,6 +19,7 @@ export default {
   },
   data () {
     return {
+      // 第一次修改
       age: 24
     }
   }
