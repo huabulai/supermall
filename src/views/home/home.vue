@@ -1,7 +1,11 @@
 <template>
   <div class="home">
     <nav-bar class="navBar">
-      <div slot="center" class='title'>购物街</div>
+      <template v-slot:center>
+        <div class="title">
+          购物街
+        </div>
+      </template>
     </nav-bar>
   </div>
 </template>
@@ -14,7 +18,9 @@ export default {
     NavBar
   },
   data () {
-    return {}
+    return {
+      age: 24
+    }
   }
 }
 </script>

@@ -15,7 +15,10 @@ export default {
     MainTabBar
   },
   data () {
-    return {}
+    return {
+      age: 24,
+      name: 'kobe'
+    }
   }
 }
 </script>
