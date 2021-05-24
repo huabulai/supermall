@@ -20,7 +20,8 @@ export default {
   data () {
     return {
       age: 25, // 大一岁了
-      name: 'kobe'
+      name: 'kobe',
+      role: 'basketballPlayer'
     }
   }
 }
