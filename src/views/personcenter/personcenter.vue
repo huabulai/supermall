@@ -11,15 +11,12 @@ export default {
     return {
       msg: '好热呀',
       time: 24,
-      name: 'lwj',
-      age: 30
+      name: 'lwj'
     }
   }
 }
 </script>
 
 <style lang="less" scoped>
-.personCenter {
-  color:red
-}
+
 </style>
