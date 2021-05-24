@@ -22,7 +22,8 @@ export default {
       age: 25, // 大一岁了
       name: 'kobe',
       role: 'basketballPlayer',
-      daughter: 'gigi'
+      daughter: 'gigi',
+      skinColor: 'black'
     }
   }
 }
