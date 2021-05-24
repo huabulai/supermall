@@ -12,7 +12,8 @@ export default {
       msg: '好热呀',
       time: 24,
       name: 'lwj',
-      job: '前端'
+      job: '前端',
+      gender: 1
     }
   }
 }
