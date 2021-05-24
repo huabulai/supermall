@@ -18,5 +18,7 @@ export default {
 </script>
 
 <style lang="less" scoped>
-
+.personCenter {
+  color:red
+}
 </style>
