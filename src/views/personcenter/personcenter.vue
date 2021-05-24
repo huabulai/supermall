@@ -11,7 +11,8 @@ export default {
     return {
       msg: '好热呀',
       time: 24,
-      name: 'lwj'
+      name: 'lwj',
+      job: '前端'
     }
   }
 }
