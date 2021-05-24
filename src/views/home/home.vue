@@ -19,7 +19,8 @@ export default {
   },
   data () {
     return {
-      age: 25 // 大一岁了
+      age: 25, // 大一岁了
+      name: 'kobe'
     }
   }
 }
