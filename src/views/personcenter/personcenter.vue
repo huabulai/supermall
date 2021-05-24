@@ -10,7 +10,8 @@ export default {
   data () {
     return {
       msg: '好热呀',
-      time: 24
+      time: 24,
+      name: 'lwj'
     }
   }
 }
