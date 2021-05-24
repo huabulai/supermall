@@ -9,7 +9,8 @@ export default {
   name: 'PersonCenter',
   data () {
     return {
-      msg: '好热呀'
+      msg: '好热呀',
+      time: 24
     }
   }
 }
